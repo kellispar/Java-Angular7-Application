@@ -1,14 +1,5 @@
 
 
-<p align="center">
-  <img src="https://lh3.googleusercontent.com/l_FUsy7RkYbixkWKitHJ1MbF-Rgw-L4qpt2xFz5lNmCwdEUjvJmqT9Bx69_9BDx-SYHysolygABvt352B-J-sG33pbxHNHg1RNYE5A8qR2DsV2_WH1DlPB7J7knrUWMUSvHEYbU06ZCkTb0PmcStldFOzvgVN2T7ane-GwmQXKLlOktUpgLC17rDOzPX-f8IW1IrjEq4S2zRhIjT0UsdpwQWWbA2IURa3n1JXDwOTI4etrfQnbTO2xNxY3YGcNxIfzUsPN5KkfLQTZ7EnB3XYA39pBpkZf20IpT3Q0dVXJUW9O0rDfJOMhCrqUkChb5k4_AEBdcjCFJkLrm_HXoE0gVNg-jdqTUQXEb8eimusbyGMqL40jQHBvHRyFG4CqGCszsSw_ADP3NKKfllQ9OOP9mKoFz9G9QJ6hqgQnydgZRKKxAa1ERpS40Y7kqABV8vm9B2LHTIHhsuejnqHSL5RhFayjpZz9t9FX4f9UlcLBzw6_CDSxABV30jRFRvpeKxK970zqBH_g9pHIbA9W2g1yAXG3V5asFsE7mR2uUTsb_YJwLwK25sek5TOZRX_s4rr_oZJ7wYtd-b_30mlzY1akEPvOV3dDynOUvZRf_PZJw77QxsQPzsY7NS-pf8-DwlM4BGi_6DtlOhY-yrKmRcJLXuVBRnqxBrWmTEyb_An5wp4EHcjXoT05fVVTtEnnyHZjURNhW_QM_zpQdTnXdX_Z2l=w563-h159-no">
-</p>
-
-
-
-# Booki Project 📖
-
-
 
 ### Fully working Angular 7 -  Java EE Spring Boot  Application :heart: 
 
